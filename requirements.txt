@@ -8,3 +8,4 @@ jax==0.4.30
 jaxlib==0.4.30
 numpyro==0.15.0
 astropy==6.0.1
+dill==0.3.8
